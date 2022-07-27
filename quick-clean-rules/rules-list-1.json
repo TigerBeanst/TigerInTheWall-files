@@ -1,0 +1,17 @@
+{
+    "rule_name":"Clean Xiaomi built-in Apps",
+    "rule_info":{
+        "default":{
+            "rule_name":"Xiaomi built-in Apps",
+            "rule_desc":"Clean up Xiaomi's built-in app intent (such as the huge Mi browser in OpenWith sheet) to prevent it from occupying the intent panel."
+        },
+        "zh-rCN":{
+            "rule_name":"小米预置应用",
+            "rule_desc":"清理小米内置应用意图（如打开方式中硕大的小米浏览器），防止占用意图面板。"
+        }
+    },
+    "rules":[
+        "1_share/com.uzero.baimiao/com.uzero.baimiao.ui.RecognizeResultTranslate",
+        "1_share/com.xiaomi.scanner/com.xiaomi.scanner.app.ScanActivity/send"
+    ]
+}
