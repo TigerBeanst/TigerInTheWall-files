@@ -6,7 +6,8 @@
         "rule_name": "Xiaomi built-in Apps",
         "rule_desc": "Clean up Xiaomi's built-in app intent (such as the huge Mi browser in OpenWith sheet) to prevent it from occupying the intent panel."
       },
-      "zh-rCN": {
+      "i18n": {
+        "rule_lang": "zh-rCN",
         "rule_name": "小米预置应用",
         "rule_desc": "清理小米内置应用意图（如打开方式中硕大的小米浏览器），防止占用意图面板。"
       }
@@ -22,7 +23,8 @@
         "rule_name": "Xiaomi built-in Apps",
         "rule_desc": "Clean up Xiaomi's built-in app intent (such as the huge Mi browser in OpenWith sheet) to prevent it from occupying the intent panel."
       },
-      "zh-rCN": {
+      "i18n": {
+        "rule_lang": "zh-rCN",
         "rule_name": "测试",
         "rule_desc": "测试2"
       }
