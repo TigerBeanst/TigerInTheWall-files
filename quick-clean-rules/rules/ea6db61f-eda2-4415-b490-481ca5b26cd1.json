@@ -1,6 +1,5 @@
 {
   "rules": [
-    "1_share/com.uzero.baimiao/com.uzero.baimiao.ui.RecognizeResultTranslate",
-    "1_share/com.xiaomi.scanner/com.xiaomi.scanner.app.ScanActivity/send"
+    "1_share/com.xiaomi.vipaccount/com.xiaomi.vipaccount.ui.publish.PublishNewActivity", "2_share_multi/com.xiaomi.vipaccount/com.xiaomi.vipaccount.ui.publish.PublishNewActivity", "1_share/com.miui.newmidrive/com.miui.newmidrive.ui.MiDriveFamilyActivity", "2_share_multi/com.miui.newmidrive/com.miui.newmidrive.ui.MiDriveFamilyActivity", "1_share/com.xiaomi.smarthome/com.xiaomi.smarthome.printer.SendPrintActivity", "3_view/com.xiaomi.smarthome/com.xiaomi.smarthome.printer.SendPrintActivity", "1_share/com.xiaomi.scanner/com.xiaomi.scanner.app.ScanActivity", "1_share/com.miui.notes/com.miui.notes.ui.activity.IntermediaryActivity", "3_view/com.miui.notes/com.miui.notes.ui.NotesListActivity", "3_view/com.android.browser/com.android.browser.BrowserActivity", "5_browser/com.android.browser/com.android.browser.BrowserActivity", "5_browser/com.android.browser/com.android.browser.BrowserActivity", "1_share/com.android.email/com.wps.multiwindow.main.HomeActivity", "2_share_multi/com.android.email/com.wps.multiwindow.main.HomeActivity", 
   ]
 }
